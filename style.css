@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #efedd6;
+    background-image: radial-gradient(circle, #845ec2, #9f76cc, #b78fd7, #cdaae2, #e2c5ee, #dccef6, #d7d6fc, #d4deff, #a6d9ff, #68d6f5, #14d1d7, #00c9a7);
     font-family: 'Roboto', sans-serif;
     display: flex;
     flex-direction: column;
@@ -19,8 +19,8 @@ h1 {
 }
 
 .box {
-    background-color: steelblue;
-    color: white;
+    background-color: #B39CD0;
+    color: #FBEAFF;
     display: flex;
     align-items: center;
     justify-content: center;
