@@ -1,1 +1,1 @@
-# scrollAnimation
+A simple Animation where elements pop in and out as you scroll through a website.
